@@ -208,8 +208,10 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><a>Fɪʟᴇ Tɪᴛʟᴇ📌
+```{file_name}```
 
+</a></b>\n<b>𝙹𝚘𝚒𝚗☞: <a>[@MRk2xBots]</a></b>"""
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
