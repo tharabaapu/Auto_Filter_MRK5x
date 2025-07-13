@@ -208,8 +208,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a>Fɪʟᴇ Tɪᴛʟᴇ📌
-```{file_name}```
+    CAPTION = """<b><a>```{file_name}```
 
 </a></b>\n<b>𝙹𝚘𝚒𝚗☞: <a>[@MRk2xBots]</a></b>"""
     IMDB_TEMPLATE_TXT = """
